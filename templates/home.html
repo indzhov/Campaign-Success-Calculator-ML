@@ -1,0 +1,42 @@
+<html>
+    <body bgcolor=#fff>
+
+        <center>
+
+        <h1> Campaign Success Calculator </h1><br>
+        <h3> Design your next campaign, and see what outcome you would receive before you even invest money for paid ads.</h3><br>
+        
+        <form method="POST", action="{{url_for('home')}}">
+            <b> <h3> Product: </h3><br></b>
+            What kind of product you would like to promote ? : <select name="a" id="products" required="required">
+                <option value="wine">Wines</option>
+                <option value="fruit">Fruits</option>
+                <option value="meat">Meat</option>
+                <option value="sweet">Sweets</option>
+                <option value="gold">Gold</option>
+                <option value="fish">Fish</option>
+                <option value="other_p">Other</option></select>
+
+            <b> <h3> Channel: </h3><br></b>
+            What kind of channel you would like to use ? : <select name="b" id="channels" required="required">
+                <option value="web_p">Web Site</option>
+                <option value="catalog_p">Catalog</option>
+                <option value="store_p">Store brochure</option>
+                <option value="other_c">Other</option></select>
+
+            <b> <h3> Demographic information: </h3><br></b>
+            Does you want to targget people with child? : <select name="c" id="child" required="required">
+                <option value="child_yes">Yes</option>
+                <option value="child_no">No</option></select>
+
+            <br>
+            </b>
+            <input type="submit" , value='predict!' >
+        </form>
+
+        <img src='static\targgeting.png' alt="flower">
+        
+    </center>
+
+    </body>
+</html>
