@@ -22,7 +22,7 @@ During the process I also made other important insights :
 ![graph3: ](graphs/revenue_from_products.png)
 # 2 - The Clients, who brings us most revenue are older : 
 ![graph4: ](graphs/clients_age.png)
-# 3 - The best chanels for advertising are : 
+# 3 - The best channels for advertising are : 
 ![graph5: ](graphs/channels.png)
 
 # Also, two bonus a advices could be :
