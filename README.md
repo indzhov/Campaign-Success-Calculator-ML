@@ -15,3 +15,18 @@ In our case one of the Persona for example visit our website most, but do not ma
 ![graph2: ](graphs/web_p.png)
 
 The main objective from the author of [the dataset](https://www.kaggle.com/rodsaldanha/arketing-campaign) we are using is to train a predictive model which allows the company to maximize the profit of the next marketing campaign. My project does exactly that. It includes Unsupervised and Supervised learning. With the first one, I found out the perfect clustering of the clients and give them a persona, the next one train a model to predict a future client, and in which persona might be. Thus, we can use some of the features and the provided information about the previous campaigns to see, which one have most impact to the final outcome. More than that, we can see the difference and target the good persona, which is willing to take an offer more than the bad persona in the first campaigns.
+
+During the process I also made other important insights : 
+
+# 1 - The Wines and Meat are the most prefered products : 
+![graph3: ](graphs/revenue_from_products.png)
+# 2 - The Clients, who brings us most revenue are older : 
+![graph4: ](graphs/clients_age.png)
+# 3 - The best chanels for advertising are : 
+![graph5: ](graphs/channels.png)
+
+# Also, two bonus a advices could be :
+- To target more people with childs
+- To target those who have graduated, have PhD or Masters degree.
+
+# The best part is we can try it interactively in any kind of campaign through the final product :  [Campaign Success Calculator](https://campaign-calculator.herokuapp.com/)
