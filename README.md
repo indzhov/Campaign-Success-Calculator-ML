@@ -25,7 +25,7 @@ During the process I also made other important insights :
 # 3 - The best channels for advertising are : 
 ![graph5: ](graphs/channels.png)
 
-# Also, two bonus a advices could be :
+# Also, two bonus advices could be :
 - To target more people with childs
 - To target those who have graduated, have PhD or Masters degree.
 
